@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingtn9&label=Profile%20views&color=0e75b6&style=flat" alt="codingtn9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingtn9" alt="codingtn9" /></a> </p>
+<img src="https://media0.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.webp?cid=790b761198p53v559gtpo2n1gkx4iq6twjmov46ditsebbxt&ep=v1_gifs_search&rid=giphy.webp&ct=g" align="right">
 
 - 🌱 I’m currently learning **Exploring advanced concepts in Machine Learning**
 
